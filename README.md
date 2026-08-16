@@ -13,29 +13,61 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hi, I'm Azaad Mottan 👋</h1>
 
 ###
 
-<p align="left">My name is Azaad Mottan and I'm a Software Developer, from India</p>
+<p align="left">I'm a software developer focused on building <b>mobile, web, and backend applications</b> with a strong interest in scalable and maintainable software architecture.</p>
+
+<p align="left">I primarily work with <b>Flutter and Dart</b> for mobile development, while also building backend systems and full-stack applications using <b>Node.js, TypeScript, and modern web technologies.</b></p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">🚀 What I Do</h2>
+
+- 📱 Build cross-platform mobile applications with Flutter & Dart
+- ⚛️ Work with React Native for cross-platform mobile development
+- ⚙️ Develop REST APIs and backend systems with Node.js & TypeScript
+- 🗄️ Work with MongoDB, PostgreSQL, and MySQL
+- 🌐 Build full-stack applications with React, Next.js, and Node.js
+- 🔐 Implement authentication, authorization, and API security
+- 🔄 Integrate real-time functionality using Socket.IO
+- ☁️ Work with Firebase, Supabase, Neon, Vercel, and Docker
+- 🧩 Focus on clean architecture, maintainable code, and production-ready solutions
 
 ###
 
-<p align="left">I’m a Software Developer specializing in Full-Stack Web Development (MERN) and Flutter. I focus on designing scalable backend architectures, building clean and responsive user interfaces, and delivering production-ready solutions across web and mobile.<br><br>✨ Creating bugs since my first “Hello World”, refining them with every compile.<br><br>💼 Current Role — Flutter Developer<br>Focused on building production-grade mobile applications using Flutter, Riverpod, Hooks, and BLoC. I specialize in designing clean UI, implementing scalable state-management patterns, and delivering smooth and efficient app experiences.<br><br>🛠️ Parallel Role — Full-Stack MERN Developer<br>Actively working on full-stack projects using Node.js (TypeScript), Express, MongoDB, React, and Redux Toolkit. Strong inclination toward backend engineering: API design, authentication workflows, middleware layers, database modelling, and scalable architecture.<br><br>🚀 What I Do<br>I build robust backend systems, intuitive mobile apps, and full-stack solutions that combine reliability, performance, and clean development practices.</p>
+<h2 align="left">🛠️ Tech Stack</h2>
+
+<h4>Mobile</h4>
+
+`Flutter` `Dart` `React Native`
+
+<h4>Backend</h4>
+
+`Node.js` `Express.js` `NestJS` `TypeScript` `REST APIs` `Socket.IO`
+
+<h4>Frontend</h4>
+
+`React` `Next.js` `TypeScript` `JavaScript` `Tailwind` `Shadcn` `CSS`
+
+<h4>Databases</h4>
+
+`MongoDB` `PostgreSQL` `MySQL`
+
+<h4>State Management</h4>
+
+`GetX` `BLoC` `Riverpod` `Redux Toolkit` `Zustand` `TanStack Query`
+
+<h4>Tools & Platforms</h4>
+
+`Git` `GitHub` `Docker` `Firebase` `Supabase` `Neon` `Vercel` `Postman`
 
 ###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=azaadmottan&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="250" alt="streak graph"  />
 </div>
-
-###
-
-<h2 align="left">🛠️ Language and tools</h2>
 
 ###
 
